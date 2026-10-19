@@ -1,1 +1,1 @@
-window.__GUNCEL = {"surum": 18};
+window.__GUNCEL = {"surum": 22};
